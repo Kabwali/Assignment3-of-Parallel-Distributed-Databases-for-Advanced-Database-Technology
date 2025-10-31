@@ -1,0 +1,1 @@
+# Assignment3-of-Parallel-Distributed-Databases-for-Advanced-Database-Technology
